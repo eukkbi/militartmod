@@ -1,0 +1,12 @@
+{
+  "name": "mili",
+  "displayName": "militarymod",
+  "author": "[#8738ff[]]eukkbi[[]]",
+  "description": "militarymod",
+  "version": "1",
+  "main": "src.core.main",
+  "minGameVersion": "125",
+  "dependencies": [],
+  "hidden": false,
+  "java": true
+}
